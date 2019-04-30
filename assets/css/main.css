@@ -2173,7 +2173,7 @@ img {
 /* Banner */
 
 	#banner {
-		background:url("/../images/10542-r.png");
+		background: url(images/10542-r.png);
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
